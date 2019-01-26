@@ -6,15 +6,13 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e7c1dc6-2122-4c10-9b38-5e2dfee18ee2" name="Default Changelist" comment="">
+    <list default="true" id="3e7c1dc6-2122-4c10-9b38-5e2dfee18ee2" name="Default Changelist" comment="Adicionado API KEY">
+      <change afterPath="$PROJECT_DIR$/gecn-dev-seguridad/key.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app-sisccc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app-sisccc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,27 +56,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="gradle" value="3" />
+          <entry key="gradle" value="5" />
           <entry key="kt" value="1" />
+          <entry key="properties" value="1" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="Groovy" value="3" />
+          <entry key="Groovy" value="5" />
           <entry key="Kotlin" value="1" />
+          <entry key="Properties" value="1" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="20" />
+          <entry key="gradle" value="317" />
+          <entry key="properties" value="119" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Groovy" value="317" />
+          <entry key="PLAIN_TEXT" value="27" />
+          <entry key="Properties" value="119" />
         </counts>
       </usages-collector>
     </session>
@@ -91,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            <state relative-caret-position="425">
+              <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -2467,6 +2471,14 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gecn-dev-seguridad/key.properties" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="758" />
     <option name="width" value="849" />
@@ -2507,7 +2519,7 @@
             <path>
               <item name="app-sisccc" type="b2602c69:ProjectViewProjectNode" />
               <item name="app-sisccc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gecn-dev-seguridad" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -2545,6 +2557,8 @@
     <property name="ExportApk.ApkPath" value="O:\Proyectos_2019\00Android\app-sisccc\app" />
     <property name="ExportApk.BuildVariants" value="release" />
     <property name="add_unversioned_files" value="true" />
+    <property name="android.project.structure.last.selected" value="app" />
+    <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="D:/androidsdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../API KEY" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
@@ -2641,7 +2655,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548535871236</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adicionado API KEY">
+      <created>1548539103205</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548539103205</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2649,7 +2670,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.5021008" side_tool="true" weight="0.3633952" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49789914" weight="0.15842839" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49789914" weight="0.26869455" />
       <window_info id="Structure" order="2" sideWeight="0.5021008" side_tool="true" weight="0.3633952" />
       <window_info id="Favorites" order="3" sideWeight="0.5021008" side_tool="true" weight="0.3633952" />
       <window_info id="Build Variants" order="4" sideWeight="0.5021008" side_tool="true" weight="0.3633952" />
@@ -2675,7 +2696,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionado vcs.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado vcs.xml" />
+    <MESSAGE value="Adicionado API KEY" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado API KEY" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
@@ -2695,10 +2717,17 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/gecn-dev-seguridad/key.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        <state relative-caret-position="425">
+          <caret line="25" column="64" selection-start-line="25" selection-start-column="64" selection-end-line="25" selection-end-column="64" />
         </state>
       </provider>
     </entry>
