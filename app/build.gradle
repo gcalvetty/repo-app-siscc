@@ -31,16 +31,17 @@ android {
             variant->
                 variant.buildConfigField STRING, SISCCC_API, getCustomProperty(SISCCC_API)
         }
-        debugGECN{
+        debug{
             minifyEnabled false
             signingConfig signingConfigs.defaultKey
             buildConfigField BOOLEAN, DEBUG_MODE, TRUE
         }
         release {
             minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.defaultKey
             buildConfigField BOOLEAN, DEBUG_MODE, FALSE
-        }
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+                    }
     }
 }
 
