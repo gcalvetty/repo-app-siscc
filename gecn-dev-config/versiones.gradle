@@ -17,6 +17,9 @@ version.junit = '4.12'
 version.runner = '1.0.2'
 version.espresso = '3.0.2'
 
+version.anko_ver = '0.10.8'
+
+version.pretty_log = '2.2.0'
 
 // ---- SDK ----
 def sdkgecn = [:]
@@ -47,13 +50,18 @@ def test = [:]
 test.junit = "junit:junit:$version.junit"
 test.runner = "com.android.support.test:runner:$version.runner"
 test.espresso = "com.android.support.test.espresso:espresso-core:$version.espresso"
-
 test.intrRunner = "android.support.test.runner.AndroidJUnitRunner"
 
 deps.test = test
 
+// ---- Anko ----
+def anko = [:]
+anko.commons = "org.jetbrains.anko:anko-commons:$version.anko_ver"
+deps.anko = anko
+
 // ---- Otros ----
 deps.android_gradle_plugin = "com.android.tools.build:gradle:$version.android_gradle_plugin"
+deps.pretty_logs = "com.orhanobut:logger:$version.pretty_log"
 
 
 ext.deps = deps

@@ -55,6 +55,12 @@ dependencies {
     implementation deps.soporte.layout
     implementation deps.soporte.design
 
+    // Anko
+    implementation deps.anko.commons
+
+    // Pretty-Logs
+    implementation deps.pretty_logs
+
     // ---- Test ----
     testImplementation deps.test.junit
     androidTestImplementation deps.test.runner
