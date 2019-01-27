@@ -1,0 +1,58 @@
+def BOOLEAN = "boolean"
+def STRING = "string"
+def INT = "int"
+def TRUE = "true"
+def FALSE = "false"
+def DEBUG_MODE = "DEBUG_MODE"
+
+ext.BOOLEAN = BOOLEAN
+ext.STRING = STRING
+ext.INT = INT
+ext.TRUE = TRUE
+ext.FALSE = FALSE
+ext.DEBUG_MODE = DEBUG_MODE
+
+def SISCCC_API = "sisccc_api"
+ext.SISCCC_API = SISCCC_API
+
+def getCustomProperty(key){
+    Properties props = new Properties()
+    def propFile = file('../gecn-dev-config/config.properties')
+    if(propFile.canRead()){
+        props.load(new FileInputStream(propFile))
+        if(props != null && props.containsKey(key))
+        {
+            println('Mis HR. properties '+ key + ' encontrado pero alguna entriada esta perdida')
+            return props[key]
+        }else{
+            println('Mi HR. properties '+ key + ' no encontrado')
+        }
+        return null
+    }
+}
+ext.getCustomProperty = this.&getCustomProperty
+
+def generateSignature(){
+        Properties props = new Properties()
+        def profile = file ('../gecn-dev-seguridad/key.properties')
+        if(profile.canRead()){
+            props.load(new FileInputStream(profile))
+            if(props != null &&
+                    props.containsKey('STORE_FILE') &&
+                    props.containsKey('STORE_PASSWORD') &&
+                    props.containsKey('KEY_ALIAS') &&
+                    props.containsKey('KEYPASSWORD')){
+                android.signingConfigs.defaultSign.storeFile=file(props['STORE_FILE'])
+                android.signingConfigs.defaultSign.storePassword=file(props['STORE_PASSWORD'])
+                android.signingConfigs.defaultSign.keyAlias=file(props['KEY_ALIAS'])
+                android.signingConfigs.defaultSign.keyPassword=file(props['KEYPASSWORD'])
+            }else{
+                println('Key.properties encontrada pero algunos datos estas perdidos')
+                android.buildTypes.debug.signinConfig = null
+            }
+        }else{
+            println(" Key.properties no localizado")
+            android.buildTypes.release.signingConfig = null
+        }
+}
+ext.generateSignature = this.&generateSignature
