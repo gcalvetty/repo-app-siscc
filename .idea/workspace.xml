@@ -11,15 +11,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7c1dc6-2122-4c10-9b38-5e2dfee18ee2" name="Default Changelist" comment="Adicionado Archivo de Configuracion&#10;config.properties&#10;funciones.gradle">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_media_compat_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_support_v4_26_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/observador/LocObervador.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/vista/LoginActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.1/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/utils/GecnLog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/utils/GecnLog.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gecn-dev-config/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gecn-dev-config/config.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,47 +80,52 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="gradle" value="15" />
-          <entry key="java" value="2" />
-          <entry key="kt" value="3" />
-          <entry key="properties" value="3" />
-          <entry key="xml" value="2" />
+          <entry key="gradle" value="17" />
+          <entry key="java" value="4" />
+          <entry key="kt" value="8" />
+          <entry key="properties" value="5" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="Git file" value="1" />
-          <entry key="Groovy" value="15" />
-          <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="3" />
-          <entry key="Properties" value="3" />
-          <entry key="XML" value="2" />
+          <entry key="Groovy" value="17" />
+          <entry key="JAVA" value="4" />
+          <entry key="Kotlin" value="8" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gradle" value="4892" />
-          <entry key="java" value="48" />
-          <entry key="kt" value="476" />
-          <entry key="properties" value="149" />
+          <entry key="gradle" value="5011" />
+          <entry key="java" value="49" />
+          <entry key="kt" value="1914" />
+          <entry key="properties" value="194" />
           <entry key="txt" value="144" />
+          <entry key="xml" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="4892" />
-          <entry key="JAVA" value="48" />
-          <entry key="Kotlin" value="476" />
+          <entry key="Groovy" value="5011" />
+          <entry key="JAVA" value="49" />
+          <entry key="Kotlin" value="1914" />
           <entry key="PLAIN_TEXT" value="144" />
-          <entry key="Properties" value="149" />
+          <entry key="Properties" value="194" />
+          <entry key="XML" value="68" />
         </counts>
       </usages-collector>
     </session>
@@ -107,40 +136,65 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="139">
+              <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/observador/LocObervador.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+              <folding>
+                <element signature="e#38#643#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gecn-dev-config/versiones.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/vista/LoginActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/utils/GecnLog.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="131">
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
               <folding>
-                <element signature="e#34#200#0" expanded="true" />
+                <element signature="e#40#954#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/MainActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+              <folding>
+                <element signature="e#27#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gecn-dev-config/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -2520,19 +2574,27 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gecn-dev-seguridad/key.properties" />
-        <option value="$PROJECT_DIR$/gecn-dev-config/config.properties" />
         <option value="$PROJECT_DIR$/gecn-dev-config/funciones.gradle" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/gecn-dev-config/versiones.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/utils/GecnLog.kt" />
         <option value="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/bo/edu/ccc/sisccc/BuildConfig.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/gecn-dev-config/config.properties" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/_vista/login/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/_vista/login/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/_vista/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/_observador/LocObervador.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/observador/LocObervador.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/vista/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="795" />
-    <option name="width" value="812" />
+    <option name="x" value="670" />
+    <option name="width" value="937" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -2559,23 +2621,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="app-sisccc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="app-sisccc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="app-sisccc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="app-sisccc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gecn-dev-config" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -2610,27 +2655,31 @@
               <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="sisccc" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="observador" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="app-sisccc" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="generatedJava" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="app-sisccc" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="generatedJava" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="sisccc" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="app-sisccc" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+              <item name="vista" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app-sisccc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-sisccc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2643,6 +2692,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../API KEY" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="bo.edu.ccc.sisccc.observador" />
+      <recent name="bo.edu.ccc.sisccc.vista" />
+      <recent name="bo.edu.ccc.sisccc._vista" />
+      <recent name="bo.edu.ccc.sisccc" />
+      <recent name="bo.edu.ccc.sisccc._vista.login" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="bo.edu.ccc.sisccc" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2769,11 +2833,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="795" y="0" width="812" height="867" extended-state="0" />
+    <frame x="670" y="0" width="937" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" sideWeight="0.5021008" side_tool="true" weight="0.3633952" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.7352941" visible="true" weight="0.31914893" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7352941" weight="0.37400228" />
       <window_info id="Structure" order="2" sideWeight="0.5021008" side_tool="true" weight="0.36248416" />
       <window_info id="Favorites" order="3" sideWeight="0.5021008" side_tool="true" weight="0.36248416" />
       <window_info id="Build Variants" order="4" sideWeight="0.2647059" side_tool="true" weight="0.28222996" />
@@ -2785,7 +2849,7 @@
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32957748" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32957748" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50132626" side_tool="true" weight="0.32957748" />
-      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.49867374" visible="true" weight="0.32957748" />
+      <window_info active="true" anchor="bottom" id="Build" order="5" sideWeight="0.49867374" visible="true" weight="0.3774648" />
       <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info anchor="bottom" id="Debug" order="8" />
@@ -2808,19 +2872,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adicionado Archivo de Configuracion&#10;config.properties&#10;funciones.gradle" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest" />
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/content_main.xml">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gecn-dev-config/versiones.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gecn-dev-seguridad/key.properties">
       <provider selected="true" editor-type-id="text-editor">
@@ -2829,55 +2893,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gecn-dev-config/funciones.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gecn-dev-config/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/utils/GecnLog.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="326">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
           <folding>
             <element signature="e#34#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gecn-dev-config/versiones.gradle">
+    <entry file="file://$PROJECT_DIR$/gecn-dev-config/funciones.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="63" column="60" selection-start-line="63" selection-start-column="60" selection-end-line="63" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="360">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/bo/edu/ccc/sisccc/BuildConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="187">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/androidsdk/platforms/android-28/android.jar!/android/Manifest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gecn-dev-config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/MainActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+          <folding>
+            <element signature="e#27#255#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        <state relative-caret-position="139">
+          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/vista/LoginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding>
+            <element signature="e#40#954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/bo/edu/ccc/sisccc/observador/LocObervador.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="73" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+          <folding>
+            <element signature="e#38#643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

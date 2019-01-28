@@ -27,10 +27,12 @@ android {
         testInstrumentationRunner deps.test.intrRunner
     }
     buildTypes {
+        /*
         applicationVariants.all{
             variant->
                 variant.buildConfigField STRING, SISCCC_API, getCustomProperty(SISCCC_API)
         }
+        */
         debug{
             minifyEnabled false
             signingConfig signingConfigs.defaultKey
@@ -66,4 +68,10 @@ dependencies {
     testImplementation deps.test.junit
     androidTestImplementation deps.test.runner
     androidTestImplementation deps.test.espresso
+
+    // ---- Google Maps ----
+    //implementation "com.google.android.gms:play-services-location:11.8.0"
+    implementation  'com.google.android.gms:play-services-location:15.0.1'
+    implementation 'com.google.android.gms:play-services-places:15.0.1'
+
 }
